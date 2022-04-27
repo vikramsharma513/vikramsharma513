@@ -6,7 +6,7 @@ Software Developer | Web Developer
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [vikramsharm1720@gmail.com](mailto:vikramsharm1720@gmail.com)
-* 🚀  I'm currently working on [something cool](http:// )
+* 🚀  I'm currently working on something cool
 * 🧠  I'm learning New Tech fields
 * 🤝  I'm open to collaborating on Any projects
 * ⚡  Ask me about anything related to java, JS, React, Firebase(After googling it 😜😌)
